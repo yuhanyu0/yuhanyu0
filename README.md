@@ -4,7 +4,7 @@
 
 I study how scientific conclusions change when observation is incomplete: **what distinctions are visible, which mechanisms remain equivalent, what experiment should be run next, and what the resulting evidence actually licenses us to claim?**
 
-Across physical networks, market systems, and scientific agents, I use controlled interventions and auditable benchmarks to separate **predictive regularity** from **mechanism identification**, and **detector output** from **defensible scientific claim**.
+Across physical networks, market systems, and scientific-agent evaluation, I use controlled interventions and auditable benchmarks to separate **predictive regularity** from **mechanism identification**, and **detector output** from **defensible scientific claim**.
 
 ## Research program
 
@@ -18,7 +18,7 @@ A low-order law can be predictive without identifying its generator. This projec
 
 ### 3. Select the next separating experiment — [Experiment-Structure Selection](https://github.com/yuhanyu0/experiment-structure-selection)
 
-Given mechanisms that remain compatible with current evidence, should the next experiment add intervention depth, richer observation, or a more complete one-step state measurement? The MESA-2 benchmark turns that choice into an explicit experiment-design problem.
+Given mechanisms that remain compatible with current evidence, should the next experiment add intervention depth, richer observation, or a more complete one-step state measurement? The controlled MESA-2 benchmark turns that choice into an explicit experiment-design problem.
 
 ### 4. Certify what the evidence can claim — [Regime Readability Certificates](https://github.com/yuhanyu0/regime-readability-certificates)
 
@@ -32,13 +32,13 @@ A detector output is not a regime claim by itself. RRC separates readability, ge
 
 ### [Homogeneous AI Traders, Endogenous Liquidity, and Phase Reversals in Tail Risk](https://github.com/yuhanyu0/homogeneous-ai-traders)
 
-**Accepted paper, ICLR 2026 Workshop on Advances in Financial AI.** A stylized agent-based market shows that greater homogeneity can raise crowding while its effect on tail loss remains regime-dependent because endogenous liquidity feedback and synchronized risk constraints act on different stress-time scales.
+**Accepted paper, ICLR 2026 Workshop on Advances in Financial AI.** A stylized agent-based market can exhibit greater crowding under higher homogeneity while the effect on tail loss remains regime-dependent because endogenous liquidity feedback and synchronized risk constraints act on different stress-time scales.
 
 ## Scientific-agent evaluation
 
 ### [Trace Is Not Uptake](https://github.com/yuhanyu0/trace-is-not-uptake)
 
-Evidence appearing in an agent trace does not show that the evidence causally changed the output. This project develops paired interventions for separating evidence presence, self-report, provenance, and causal uptake, with explicit boundaries between synthetic qualification and frontier-model evaluation.
+Evidence appearing in an agent trace does not show that the evidence causally changed the output. This project develops paired interventions for separating evidence presence, self-report, provenance, and causal uptake; the current public release is a transparent synthetic qualification rather than a frontier-model evaluation.
 
 ## Research infrastructure
 
